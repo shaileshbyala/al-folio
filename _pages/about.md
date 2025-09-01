@@ -31,8 +31,3 @@ Shailesh Byala is a Controller specializing in commercial real-estate accounting
 Prior to UCCI, Shailesh led Accounting at Staerk Group Inc., managing an $80M portfolio, and earlier served as a Jr. Property Accountant at Keystone Building Management on a $50M portfolio, where he deepened expertise in AP/AR, rent rolls, collections, and construction budgeting.
 Shailesh is currently pursuing an MBA at Concordia University’s John Molson School of Business. He previously completed a Diploma in Computerised Financial Management (Vanier College) and a Bachelor’s in Mechanical & Automation Engineering (GGSIPU). His toolkit includes Yardi (Voyager/Breeze), Sage 50, QuickBooks, and advanced Excel. Outside work, he enjoys swimming, running, and video games.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

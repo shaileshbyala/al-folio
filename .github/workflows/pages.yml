@@ -24,10 +24,10 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'     # or 3.3; al-folio works with modern Ruby
+          ruby-version: '3.2'
           bundler-cache: true
 
-      - name: Install deps
+      - name: Install gems
         run: |
           bundle config set path 'vendor/bundle'
           bundle install --jobs 4 --retry 3
@@ -52,4 +52,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
